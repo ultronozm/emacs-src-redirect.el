@@ -26,8 +26,7 @@
 ;; and want to use `xref' to navigate to definitions in your working
 ;; copy rather than the installed files.
 ;;
-;; Usage: customize the variables `emacs-src-redirect-lisp-dir' and
-;;   TODO, then do
+;; Usage: customize the variable `emacs-src-redirect-lisp-dir', then:
 ;;
 ;;   M-x emacs-src-redirect-mode
 
